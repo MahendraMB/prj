@@ -1,0 +1,52 @@
+@media (max-width: 800px) {
+  .a {
+    flex-direction: column;
+  }
+}
+@media (max-width: 800px) {
+  .container {
+    flex-direction: column;
+  }
+}
+@media (max-width: 800px) {
+  .cards {
+    flex-direction: column;
+  }
+}
+@media (max-width: 800px) {
+  .image img {
+    flex-direction: column;
+  }
+}
+@media (max-width: 800px) {
+  .jumbotron {
+    flex-direction: column;
+  }
+}
+@media (max-width: 800px) {
+  .a1 {
+    flex-direction: column;
+  }
+}
+@media (max-width: 800px) {
+  .b1 {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 800px) {
+  .media {
+    flex-direction: column;
+  }
+}
+@media (max-width: 800px) {
+  .c1 {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 600px) {
+  .navbar {
+    display: flex;
+    flex-flow: column;
+  }
+}
